@@ -8,7 +8,7 @@ def reverse_text(text):
     Returns:
     str: The reversed string, or an error message if input is not valid.
     """
-    try:
+    try: #sharp
         if not isinstance(text, str):
             raise ValueError("Input must be a string.")
         
