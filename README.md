@@ -9,4 +9,5 @@ just python
 
 ## Instructor
 |Name    | Email | Github Profile                   |
-|Mubaraq |-------|[@mubaraq](github.com/mubarraqqq)      
+|--------|-------|----------------------------------|
+|Mubaraq |-------|[@mubaraq](github.com/mubarraqqq) |    
